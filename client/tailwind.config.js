@@ -10,4 +10,3 @@ export default {
   plugins: [],
 }
 
-console.log('d')
